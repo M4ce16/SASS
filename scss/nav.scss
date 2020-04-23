@@ -1,0 +1,20 @@
+$inline: inline;
+$geen: none;
+$size: 30px;
+$leukekleur: gray;
+$padding: 100%;
+nav {
+  display: $inline;
+  text-decoration: $geen;
+  font-size: $size;
+  background-color: $leukekleur;
+  padding-left: $padding;
+}
+
+html {
+  
+}
+.h1 {
+  font-size: $size;
+  text-decoration: $geen;
+}

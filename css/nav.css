@@ -1,0 +1,14 @@
+nav {
+  display: inline;
+  text-decoration: none;
+  font-size: 30px;
+  background-color: gray;
+  padding-left: 100%;
+}
+
+.h1 {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=nav.css.map */
